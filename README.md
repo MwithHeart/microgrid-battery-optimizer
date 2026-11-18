@@ -1,9 +1,10 @@
 # Microgrid Battery Optimizer
-An energy management system that fetches solar and weather forecasts via Open-Meteo across five Nigerian cities, estimates photovoltaic (PV) power generation, and outputs the automated charge/discharge decisions for local battery storage.
-
+**Microgrid Battery Optimizer** is a practical energy management system built to take the guesswork out of running a solar-and-battery setup. By pulling solar and weather forecasts from Open-Meteo across five Nigerian cities, the system estimates expected photovoltaic (PV) generation, schedules battery charge and discharge cycles, and highlights the best windows for running heavy household appliances.
 
 ## 🎯 Project Goal
-The objective is to optimize solar self-consumption and improve power reliability by scheduling battery charge and discharge cycles ahead of changing weather conditions.
+Knowing when to save battery reserves and when to run power-hungry loads like water pumps, or air conditioners, is often a guessing game with solar-powered microgrids. 
+
+The objective of this project is to make that decision-making easier and help prevent unexpected battery depletion, maximize solar self-consumption, and reduce reliance on costly backup generators.
 
 
 ## 🌍 Target Locations
